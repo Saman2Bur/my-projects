@@ -9,5 +9,3 @@ A collection of projects I built to practice and improve my coding skills in **d
    - Counted short action movies (< 90 minutes)
 
 *(More projects will be added here as I complete them.)*
-# my-projects
-A collection of projects for practicing data analysis and data science
