@@ -1,4 +1,4 @@
-# Netflix EDA (1990s)
+# Netflix EDA 
 
 This project performs **exploratory data analysis (EDA)** on the `netflix_data.csv` dataset to understand more about movies from the 1990s.
 
