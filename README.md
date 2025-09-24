@@ -8,4 +8,10 @@ A collection of projects I built to practice and improve my coding skills in **d
    - Found the most common movie duration  
    - Counted short action movies (< 90 minutes)
 
+2. [NYC SAT Analysis](02-nyc-sat/README.md)
+   - Analyzed SAT results of NYC schools  
+   - Found schools with best math results (≥ 80% of 800)  
+   - Identified the top 10 schools by total SAT scores  
+   - Determined which borough has the largest standard deviation in SAT results  
+
 *(More projects will be added here as I complete them.)*
